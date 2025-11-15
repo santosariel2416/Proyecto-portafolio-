@@ -1,7 +1,6 @@
 
 ---
-
-## 🎨 Personalización realizada
+ Personalización realizada
 Estas son las mejoras que le hice al portafolio:
 
 - Coloqué mi nombre completo, matrícula y foto.
@@ -15,7 +14,8 @@ Estas son las mejoras que le hice al portafolio:
 ---
 
 ## 🖥️ Capturas de pantalla
-*(Aquí agregaré las imágenes cuando las suba)*
+<img width="1918" height="866" alt="image" src="https://github.com/user-attachments/assets/8c2aec5c-7077-45b4-a84b-f8a349db9750" />
+
 
 - Inicio  
 - Sobre mí  
