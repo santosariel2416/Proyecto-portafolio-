@@ -1,6 +1,6 @@
 
 
- descrisión del portafolio.
+ **Descrisión del Portafolio**.
 
 - Coloqué mi nombre completo, matrícula y foto.
 - Cambié la paleta de colores para que se vea más profesional.
@@ -12,7 +12,7 @@
 
 
 
- Capturas de pantalla
+ **Capturas de pantalla**
 <img width="1918" height="866" alt="image" src="https://github.com/user-attachments/assets/8c2aec5c-7077-45b4-a84b-f8a349db9750" />
 
 
@@ -21,15 +21,16 @@
 - Proyectos  
 - Código en GitHub  
 - Vista en Vercel  
-
+  **Mi Pagina Web**
+  file:///C:/Users/santo/Desktop/Proyecto%20Final/proyecto.html  
 
 
  Enlaces del proyecto
 - **Repositorio en GitHub:**  
-*(Colocar enlace aquí)*
+
 
 - **Sitio publicado en Vercel:**  
-*(Colocar enlace aquí)*
+
 
 Proyecto “Proyectos”
 Dentro del menú agregué un apartado llamado **Proyectos**, donde incluí el enlace de mi blog creado en una actividad anterior:
