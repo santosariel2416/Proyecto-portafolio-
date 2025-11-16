@@ -21,9 +21,7 @@
 - Proyectos  
 - Código en GitHub  
 - Vista en Vercel  
-  **Mi Pagina Web**
-  file:///C:/Users/santo/Desktop/Proyecto%20Final/proyecto.html  
-
+  
 
  Enlaces del proyecto
 - **Repositorio en GitHub:**  
