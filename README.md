@@ -38,11 +38,3 @@ https://sites.google.com/view/the-tecnored/p%C3%A1gina-principal
 
 
 
- Documento PDF
-Este README también servirá como base para crear el documento PDF solicitado en la asignación.  
-Ahí incluiré capturas de pantalla, explicación breve del proceso, y los enlaces finales.
-
-
-
- Estado del proyecto
-El portafolio está funcionando correctamente y seguirá mejorando con el tiempo a medida que avance en mi carrera.
