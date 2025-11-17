@@ -1,0 +1,150 @@
+/* Estilos generales */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f6f4f8;
+    color: #333;
+}
+
+/* Encabezado y menú */
+header {
+    background-color: #7CFC00; 
+    color: black;
+    padding: 15px 0;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+    margin: 0 auto;
+}
+
+nav h1 {
+    font-size: 1.4rem;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+nav ul li a {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+nav ul li a:hover {
+    color: #ffcc00;
+}
+
+/* Sección inicio */
+.inicio {
+    text-align: center;
+    padding: 60px 20px;
+    background-color: #e6f2ff;
+}
+
+.inicio img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 3px solid #00264d;
+    object-fit: cover;
+    margin-bottom: 15px;
+}
+
+/* Sección sobre mí */
+.sobre-mi, .proyectos, .contacto {
+    width: 80%;
+    margin: 40px auto;
+    background: white;
+    border-radius: 10px;
+    padding: 30px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+h2 {
+    color: #00264d;
+}
+
+/* Contacto */
+.contacto a {
+    color: #00264d;
+    text-decoration: none;
+}
+.contacto a:hover {
+    text-decoration: underline;
+}
+
+/* Pie de página */
+footer {
+    background-color: #00264d;
+    color: white;
+    text-align: center;
+    padding: 15px 0;
+    margin-top: 30px;
+}
+
+/* Responsivo */
+@media (max-width: 600px) {
+    nav ul {
+        flex-direction: column;
+        gap: 10px;
+    }
+}
+/* Redes sociales */
+.redes-sociales {
+    margin-top: 15px;
+}
+
+.redes-sociales a {
+    color: white;
+    margin: 0 10px;
+    font-size: 1.5rem;
+    transition: 0.3s;
+}
+
+/* Redes sociales con colores reales */
+.redes-sociales {
+    margin-top: 15px;
+}
+
+.redes-sociales a {
+    margin: 0 10px;
+    font-size: 1.8rem;
+    transition: 0.3s;
+    text-decoration: none;
+}
+
+.redes-sociales i {
+    transition: transform 0.3s ease;
+}
+
+/* Colores oficiales */
+.redes-sociales a.facebook i {
+    color: #1877F2; /* Azul Facebook */
+}
+.redes-sociales a.instagram i {
+    color: #E4405F; /* Rosa Instagram */
+}
+.redes-sociales a.github i {
+    color: #171515; /* Negro GitHub */
+}
+.redes-sociales a.linkedin i {
+    color: #0A66C2; /* Azul LinkedIn */
+}
+.redes-sociales a.whatsapp i {
+    color: #25D366; /* Verde WhatsApp */
+}
+
+/* Efecto al pasar el mouse */
+.redes-sociales a:hover i {
+    transform: scale(1.2);
+}
+
